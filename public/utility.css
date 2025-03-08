@@ -1,0 +1,18 @@
+.blue{
+    color: #0a66c2;;
+}
+
+.white{
+    background-color: white;
+}
+
+.grey{
+    color: #000000ba;
+    opacity: 0.8;
+}
+
+.link{
+    text-decoration: none;
+    color: #0a66c2;
+    font-weight: 600;
+}
